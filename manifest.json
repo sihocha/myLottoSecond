@@ -17,5 +17,5 @@
     "background_color": "#ffffff",
     "orientation": "any",
     "display": "browser",
-    "start_url": "/lotto/"
+    "start_url": "/myLottoSecond/"
 }
